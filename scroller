@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+<head>
+    <title>QNimate Slider</title>
+    <link href="style.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+    <div class="slider-holder">
+        <span id="slider-image-1"></span>
+        <span id="slider-image-2"></span>
+        <span id="slider-image-3"></span>
+        <span id="slider-image-4"></span>
+        <span id="slider-image-5"></span>
+        <span id="slider-image-6"></span>
+        <span id="slider-image-7"></span>
+        <span id="slider-image-8"></span>
+        <span id="slider-image-9"></span>
+        <span id="slider-image-10"></span>
+        <div class="image-holder">
+            <img src="https://harrydakommun.sharepoint.com/sites/InfoGraphics-Hallbarhet/Delade%20dokument/CustomScroller/1.jpg" class="slider-image"/> 
+            <img src="https://harrydakommun.sharepoint.com/sites/InfoGraphics-Hallbarhet/Delade%20dokument/CustomScroller/2.jpg" class="slider-image"/> 
+            <img src="https://harrydakommun.sharepoint.com/sites/InfoGraphics-Hallbarhet/Delade%20dokument/CustomScroller/3.jpg" class="slider-image"/> 
+            <img src="https://harrydakommun.sharepoint.com/sites/InfoGraphics-Hallbarhet/Delade%20dokument/CustomScroller/4.jpg" class="slider-image"/> 
+            <img src="https://harrydakommun.sharepoint.com/sites/InfoGraphics-Hallbarhet/Delade%20dokument/CustomScroller/5.jpg" class="slider-image"/> 
+            <img src="https://harrydakommun.sharepoint.com/sites/InfoGraphics-Hallbarhet/Delade%20dokument/CustomScroller/6.jpg" class="slider-image"/> 
+            <img src="https://harrydakommun.sharepoint.com/sites/InfoGraphics-Hallbarhet/Delade%20dokument/CustomScroller/7.jpg" class="slider-image"/> 
+            <img src="https://harrydakommun.sharepoint.com/sites/InfoGraphics-Hallbarhet/Delade%20dokument/CustomScroller/8.jpg" class="slider-image"/>
+            <img src="https://harrydakommun.sharepoint.com/sites/InfoGraphics-Hallbarhet/Delade%20dokument/CustomScroller/9.jpg" class="slider-image"/>
+            <img src="https://harrydakommun.sharepoint.com/sites/InfoGraphics-Hallbarhet/Delade%20dokument/CustomScroller/10.jpg" class="slider-image"/>
+        </div>
+        <div class="button-holder">
+            <a href="#slider-image-1"  class="slider-change"></a>
+            <a href="#slider-image-2"  class="slider-change"></a>
+            <a href="#slider-image-3"  class="slider-change"></a>
+            <a href="#slider-image-4"  class="slider-change"></a>
+            <a href="#slider-image-5"  class="slider-change"></a>
+            <a href="#slider-image-6"  class="slider-change"></a>
+            <a href="#slider-image-7"  class="slider-change"></a>
+            <a href="#slider-image-8"  class="slider-change"></a>
+            <a href="#slider-image-9"  class="slider-change"></a>
+            <a href="#slider-image-10" class="slider-change"></a>
+        </div>
+    </div>
+</body>
+</html>
